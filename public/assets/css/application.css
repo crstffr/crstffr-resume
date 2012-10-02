@@ -1,0 +1,106 @@
+body {
+    font-family: 'Lucida Grande', sans-serif;
+    font-size: 13px;
+}
+
+body p {
+    margin: 0;
+}
+
+hr {
+    float: left;
+    width: 100%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
+
+.name-heading {
+    border-bottom: 1px solid black;
+    padding: 15px 0;
+    margin-bottom: 15px;
+}
+
+.name-heading .pull-right {
+    text-align: right;
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', serif;
+}
+
+ul {
+    margin: 0;
+}
+
+ul li {
+    margin-left: 10px;
+}
+
+ul.no-bullet li {
+    list-style: none;
+}
+
+.job {
+    margin-bottom: 25px;
+}
+
+.job ul {
+    margin-top: 10px;
+}
+
+.job ul li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.job ul li:before {
+    content: "\00BB \0020";
+}
+
+.position {
+    text-decoration: underline;
+}
+
+.company {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.dates {
+    font-size: .8em;
+    font-style: italic;
+}
+
+.list {
+    margin-bottom: 25px;
+}
+
+.list ul {
+
+}
+
+.list ul li {
+    list-style: none;
+}
+
+.list ul li:before {
+    content: "\2013 \0020";
+}
+
+.references ul {
+    margin-top: 10px;
+}
+.references ul li {
+    margin-bottom: 10px;
+}
+
+@media (max-width: 480px) {
+
+    .name-heading {
+        border: 0;
+    }
+
+}
