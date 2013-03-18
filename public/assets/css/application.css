@@ -17,6 +17,10 @@ footer {
     bottom: 0;
 }
 
+.underline {
+    text-decoration: underline;
+}
+
 .name-heading {
     border-bottom: 1px solid black;
     padding: 15px 0;
@@ -86,7 +90,7 @@ ul.no-bullet li {
     list-style: none;
 }
 
-.list ul li:before {
+.list-dash ul li:before {
     content: "\2013 \0020";
 }
 

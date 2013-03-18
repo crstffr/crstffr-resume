@@ -55,16 +55,32 @@
 
             <div class="job">
                 <p>
-                    <span class="company">Firebrand</span>,
+                    <span class="company">Nerdery</span>,
                     <span class="location">Minneapolis, MN</span>
-                    <span class="dates">May 2012 - Present</span>
+                    <span class="dates">Nov 2012 - Feb 2013</span>
                 </p>
                 <div>
-                    <p>I am a <span class="position">Senior Web Developer</span>, where I:</p>
+                    <p>I was a <span class="position">Javascript Contractor</span>, where I:</p>
                     <ul>
-                        <li>Implemented an Agile development process for the company</li>
+                        <li>Lead two teams of developers during a short contract period</li>
+                        <li>Architected and developed a robust data visualization application</li>
+                        <li>Developed a responsive website for daytontrucktires.com</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="job">
+                <p>
+                    <span class="company">Firebrand</span>,
+                    <span class="location">Minneapolis, MN</span>
+                    <span class="dates">May 2012 - Nov 2012</span>
+                </p>
+                <div>
+                    <p>I was a <span class="position">Senior Web Developer</span>, where I:</p>
+                    <ul>
+                        <li>Implemented an Agile development process for the team</li>
                         <li>Developed a deployment process similar in usability to Capistrano</li>
-                        <li>Designed and developed a responsive layout website for the company</li>
+                        <li>Designed and developed a responsive cross-platform website</li>
                     </ul>
                 </div>
             </div>
@@ -82,9 +98,8 @@
                         <li>Worked directly with clients to determine their requirements</li>
                         <li>Ballparked and fully scoped accurate project estimates</li>
                         <li>Wrote scope of work, test plan, and deployment documents</li>
-                        <li>Architected a SaaS with private API that output print-ready documents</li>
-                        <li>Built a mission-critical tool that controlled a 24-hour live event</li>
-                        <li>Built the Nikon Coolpix Zoom demo using Javascript</li>
+                        <li>Developed a mission-critical app that controlled a 24-hour live event</li>
+                        <li>Developed the Nikon Coolpix Zoom demo using Javascript</li>
                     </ul>
                 </div>
             </div>
@@ -116,7 +131,6 @@
                         <li>Built over 80 websites and applications</li>
                         <li>Designed hundreds of application interfaces</li>
                         <li>Developed a custom AJAX based CMS to drive client sites</li>
-                        <li>Developed plugins for our CMS to increase functionality</li>
                         <li>Connected to third-party API's: SSO, payment gateways, shipping quotes</li>
                         <li>Installed and customized WordPress and vBulletin for clients</li>
                         <li>Used jQuery to build flash-like features that were SEO friendly</li>
@@ -124,6 +138,7 @@
                 </div>
             </div>
 
+            <!--
             <div class="job">
                 <p>
                     <span class="company">The Art Institutes International, Minnesota</span>,
@@ -134,39 +149,37 @@
                     <p>Dean's List - January, 2000</p>
                 </div>
             </div>
+            -->
 
 
         </div>
 
         <div class="span4">
 
-            <section class="list">
+            <section class="list list-dash">
                 <h3>Relevant Skills</h3>
                 <ul>
+                    <li>Javascript, AJAX, jQuery</li>
                     <li>10+ years using PHP/MySQL</li>
-                    <li>JS, jQuery plugin development</li>
-                    <li>AJAX, CSS, DOM, XHTML</li>
-                    <li>HTML, XML, RSS</li>
-                    <li>Apache, .htaccess</li>
+                    <li>HTML5, CSS3, XML, XHTML</li>
+                    <li>LAMP, Apache, .htaccess</li>
                     <li>MVC Frameworks</li>
                     <li>Git, SVN version control</li>
                     <li>SEO knowledge &amp; practice</li>
                 </ul>
             </section>
 
-            <section class="list">
+            <section class="list list-dash">
                 <h3>Personal Skills</h3>
                 <ul>
                     <li>Organized and focused</li>
+                    <li>Communicates professionally</li>
                     <li>Independently accomplish goals</li>
                     <li>Natural problem solver</li>
-                    <li>Good with clients</li>
-                    <li>Calm and patient</li>
-                    <li>Inquisitive</li>
                 </ul>
             </section>
 
-            <section class="list">
+            <section class="list list-dash">
                 <h3>Other Experience</h3>
                 <ul>
                     <li>SONY video training in 2005</li>
@@ -174,6 +187,18 @@
                     <li>Ruby on Rails classes in 2009</li>
                     <li>Overnight Web Challenge in 2011</li>
                 </ul>
+            </section>
+
+            <section class="list education">
+                <h3>Education</h3>
+                <ul class="no-bullet">
+                    <li>
+                        <strong>Art Institutes International, MN</strong> <br/>
+                        <span class="underline">Associates of Applied Science</span> <br/>
+                        Multimedia Program, 2001
+                    </li>
+                </ul>
+
             </section>
 
             <section class="references">
@@ -194,11 +219,13 @@
                         (785) 760-3606 <br/>
                         chris@cwademusic.com
                     </li>
+                    <!--
                     <li>
                         <strong>Joe Whiteis</strong> <br/>
                         (612) 874-0585 <br/>
                         joe@heyjoe.com
                     </li>
+                    -->
                 </ul>
             </section>
 
