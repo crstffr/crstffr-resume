@@ -44,6 +44,11 @@ Route::get('/', function()
     return View::make('home.index');
 });
 
+Route::get('projects', function()
+{
+    return View::make('home.projects');
+});
+
 
 /*
 |--------------------------------------------------------------------------

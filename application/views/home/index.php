@@ -63,8 +63,8 @@
                     <p>I was a <span class="position">Javascript Contractor</span>, where I:</p>
                     <ul>
                         <li>Lead two teams of developers during a short contract period</li>
-                        <li>Architected and developed a robust data visualization application</li>
-                        <li>Developed a responsive website for daytontrucktires.com</li>
+                        <li>Built a data visualization app using modern JS standards and patterns (360i ATL)</li>
+                        <li>Developed the responsive website: http://daytontrucktires.com (Periscope MPLS)</li>
                     </ul>
                 </div>
             </div>
@@ -80,7 +80,7 @@
                     <ul>
                         <li>Implemented an Agile development process for the team</li>
                         <li>Developed a deployment process similar in usability to Capistrano</li>
-                        <li>Designed and developed a responsive cross-platform website</li>
+                        <li>Developed a responsive cross-platform website: http://firebrand.net</li>
                     </ul>
                 </div>
             </div>
@@ -98,8 +98,9 @@
                         <li>Worked directly with clients to determine their requirements</li>
                         <li>Ballparked and fully scoped accurate project estimates</li>
                         <li>Wrote scope of work, test plan, and deployment documents</li>
-                        <li>Developed a mission-critical app that controlled a 24-hour live event</li>
-                        <li>Developed the Nikon Coolpix Zoom demo using Javascript</li>
+                        <li>Built mission-critical app for Norton Stuff Theatre live event (Leo Burnett CHI)</li>
+                        <li>Built Nikon Coolpix Zoom demo using Javascript (MRM Worldwide NY)</li>
+                        <li>Built Target Sample Spot, a ADA 508 compliant app (Olson MPLS)</li>
                     </ul>
                 </div>
             </div>
@@ -132,7 +133,7 @@
                         <li>Designed hundreds of application interfaces</li>
                         <li>Developed a custom AJAX based CMS to drive client sites</li>
                         <li>Connected to third-party API's: SSO, payment gateways, shipping quotes</li>
-                        <li>Installed and customized WordPress and vBulletin for clients</li>
+                        <!-- <li>Installed and customized WordPress and vBulletin for clients</li>-->
                         <li>Used jQuery to build flash-like features that were SEO friendly</li>
                     </ul>
                 </div>
@@ -159,9 +160,13 @@
             <section class="list list-dash">
                 <h3>Relevant Skills</h3>
                 <ul>
-                    <li>Javascript, AJAX, jQuery</li>
-                    <li>10+ years using PHP/MySQL</li>
-                    <li>HTML5, CSS3, MVC Frameworks</li>
+                    <li>10+ years end-to-end web development</li>
+                    <li>6+ years using Javascript, AJAX, jQuery</li>
+                    <li>Require.js, AMD, Loose coupling</li>
+                    <li>API design, development, integration</li>
+                    <li>UI, UX, application interface design</li>
+                    <li>HTML5, CSS3, MVC frameworks</li>
+                    <li>OOP PHP 5.3, MySQL schemas</li>
                     <li>LAMP, Apache, .htaccess</li>
                     <li>Git, SVN version control</li>
                     <li>SEO knowledge &amp; practice</li>
@@ -171,13 +176,28 @@
             <section class="list list-dash">
                 <h3>Personal Skills</h3>
                 <ul>
-                    <li>Organized and focused</li>
+                    <li>Organized + focused = efficient</li>
                     <li>Communicates professionally</li>
-                    <li>Independently accomplish goals</li>
+                    <li>Works very well with clients</li>
+                    <li>Prefers fast paced projects</li>
                     <li>Natural problem solver</li>
+                    <li>Sharp eye for details</li>
                 </ul>
             </section>
 
+            <section class="list list-dash">
+                <h3>Agencies Worked With</h3>
+                <ul>
+                    <li>360i Atlanta (2013)</li>
+                    <li>Periscope Minneapolis (2012)</li>
+                    <li>Leo Burnett Chicago (2011)</li>
+                    <li>MRM Worldwide New York (2011)</li>
+                    <li>Zeus Jones Minneapolis (2010)</li>
+                    <li>Olson Minneapolis (2010)</li>
+                </ul>
+            </section>
+
+            <!--
             <section class="list list-dash">
                 <h3>Other Experience</h3>
                 <ul>
@@ -187,6 +207,7 @@
                     <li>Overnight Web Challenge in 2011</li>
                 </ul>
             </section>
+            -->
 
             <section class="list education">
                 <h3>Education</h3>
@@ -202,7 +223,7 @@
             <section class="list list-dash">
                 <h3>Interests &amp; Hobbies</h3>
                 <ul>
-                    <li>Screen printing</li>
+                    <li>Flatstock screen printing</li>
                     <li>Photography, developing film</li>
                     <li>3D modeling and composition</li>
                     <li>Open source electronics</li>
