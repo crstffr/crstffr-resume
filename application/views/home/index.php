@@ -95,9 +95,10 @@
                     <p>I was an <span class="position">Interactive Web Developer</span>, where I:</p>
                     <ul>
                         <li>Consistently lead small teams to develop successful projects</li>
-                        <li>Worked directly with clients to determine their requirements</li>
+                        <li>Worked directly with clients to determine project requirements</li>
                         <li>Ballparked and fully scoped accurate project estimates</li>
                         <li>Wrote scope of work, test plan, and deployment documents</li>
+                        <li>Created formal JS standards as a part of the Javascript Committee</li>
                         <li>Built mission-critical app for Norton Stuff Theatre live event (Leo Burnett CHI)</li>
                         <li>Built Nikon Coolpix Zoom Demo using Microsoft Seadragon (MRM Worldwide NY)</li>
                         <li>Built Target Sample Spot, an ADA 508 compliant app (Olson MPLS)</li>
@@ -129,8 +130,7 @@
                 <div>
                     <p>I was a <span class="position">Web Application Developer</span>, where I:</p>
                     <ul>
-                        <li>Built over 80 websites and applications</li>
-                        <li>Designed hundreds of application interfaces</li>
+                        <li>Built over 80 websites and hundreds of application interfaces</li>
                         <li>Developed a custom AJAX based CMS to drive client sites</li>
                         <li>Connected to third-party API's: SSO, payment gateways, shipping quotes</li>
                         <!-- <li>Installed and customized WordPress and vBulletin for clients</li>-->
@@ -181,6 +181,7 @@
                     <li>Communicates professionally</li>
                     <li>Works very well with clients</li>
                     <li>Prefers fast paced projects</li>
+                    <li>Effective leader and mentor</li>
                     <li>Natural problem solver</li>
                     <li>Sharp eye for details</li>
                 </ul>
@@ -228,7 +229,6 @@
                     <li>Photography, developing film</li>
                     <li>3D modeling and composition</li>
                     <li>Open source electronics</li>
-                    <li>Miniature computing</li>
                 </ul>
             </section>
 <!--

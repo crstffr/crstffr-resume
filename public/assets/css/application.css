@@ -1,6 +1,6 @@
 body {
-    font-family: 'Lucida Grande', sans-serif;
-    font-size: 13px;
+    font-family: sans-serif;
+    font-size: 11px;
 }
 
 body p {
@@ -48,7 +48,7 @@ ul.no-bullet li {
 }
 
 .job {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .job ul {
@@ -79,7 +79,7 @@ ul.no-bullet li {
 }
 
 .list {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .list ul {
