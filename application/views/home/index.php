@@ -99,8 +99,8 @@
                         <li>Ballparked and fully scoped accurate project estimates</li>
                         <li>Wrote scope of work, test plan, and deployment documents</li>
                         <li>Built mission-critical app for Norton Stuff Theatre live event (Leo Burnett CHI)</li>
-                        <li>Built Nikon Coolpix Zoom demo using Javascript (MRM Worldwide NY)</li>
-                        <li>Built Target Sample Spot, a ADA 508 compliant app (Olson MPLS)</li>
+                        <li>Built Nikon Coolpix Zoom Demo using Microsoft Seadragon (MRM Worldwide NY)</li>
+                        <li>Built Target Sample Spot, an ADA 508 compliant app (Olson MPLS)</li>
                     </ul>
                 </div>
             </div>
@@ -158,11 +158,12 @@
         <div class="span4">
 
             <section class="list list-dash">
-                <h3>Relevant Skills</h3>
+                <h3>Relevant Skills & Keywords</h3>
                 <ul>
                     <li>10+ years end-to-end web development</li>
                     <li>6+ years using Javascript, AJAX, jQuery</li>
-                    <li>Require.js, AMD, Loose coupling</li>
+                    <li>Require.js, AMD, loose coupling</li>
+                    <li>Namespacing, singletons, deferreds</li>
                     <li>API design, development, integration</li>
                     <li>UI, UX, application interface design</li>
                     <li>HTML5, CSS3, MVC frameworks</li>
