@@ -110,7 +110,7 @@
                     <span class="dates">Jan 2009 - Aug 2009</span>
                 </p>
                 <div>
-                    <p>I was an <span class="position">EXCO Facilitator</span> (aka Class Instructor), where I:</p>
+                    <p>I was a volunteer <span class="position">EXCO Facilitator</span> (aka Class Instructor), where I:</p>
                     <ul>
                         <li>Designed the class &ldquo;<em>Introduction to HTML &amp; Web Development</em>&rdquo;</li>
                         <li>Broke down the basics of the Internet and how the web works</li>
@@ -161,9 +161,8 @@
                 <ul>
                     <li>Javascript, AJAX, jQuery</li>
                     <li>10+ years using PHP/MySQL</li>
-                    <li>HTML5, CSS3, XML, XHTML</li>
+                    <li>HTML5, CSS3, MVC Frameworks</li>
                     <li>LAMP, Apache, .htaccess</li>
-                    <li>MVC Frameworks</li>
                     <li>Git, SVN version control</li>
                     <li>SEO knowledge &amp; practice</li>
                 </ul>
@@ -198,9 +197,19 @@
                         Multimedia Program, 2001
                     </li>
                 </ul>
-
             </section>
 
+            <section class="list list-dash">
+                <h3>Interests &amp; Hobbies</h3>
+                <ul>
+                    <li>Screen printing</li>
+                    <li>Photography, developing film</li>
+                    <li>3D modeling and composition</li>
+                    <li>Open source electronics</li>
+                    <li>Miniature computing</li>
+                </ul>
+            </section>
+<!--
             <section class="references">
                 <h3>References</h3>
                 <ul class="no-bullet">
@@ -219,16 +228,16 @@
                         (785) 760-3606 <br/>
                         chris@cwademusic.com
                     </li>
-                    <!--
+
                     <li>
                         <strong>Joe Whiteis</strong> <br/>
                         (612) 874-0585 <br/>
                         joe@heyjoe.com
                     </li>
-                    -->
+
                 </ul>
             </section>
-
+-->
 
 
         </div>
