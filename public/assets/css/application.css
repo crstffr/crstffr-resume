@@ -48,16 +48,16 @@ ul.no-bullet li {
 }
 
 .job {
-    margin-bottom: 25px;
+    margin-bottom: 2.4em;
 }
 
 .job ul {
-    margin-top: 10px;
+    margin-top: .4em;
 }
 
 .job ul li {
     list-style: none;
-    margin-bottom: 5px;
+    line-height: 1.9em;
 }
 
 .job ul li:before {
@@ -79,7 +79,7 @@ ul.no-bullet li {
 }
 
 .list {
-    margin-bottom: 25px;
+    margin-bottom: 1em;
 }
 
 .list ul {
@@ -88,6 +88,7 @@ ul.no-bullet li {
 
 .list ul li {
     list-style: none;
+    line-height: 1.8em;
 }
 
 .list-dash ul li:before {

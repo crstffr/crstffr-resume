@@ -131,9 +131,10 @@
                     <p>I was a <span class="position">Web Application Developer</span>, where I:</p>
                     <ul>
                         <li>Built over 80 websites and hundreds of application interfaces</li>
+                        <li>Used Photoshop for design production and slice+dice into HTML/CSS</li>
                         <li>Developed a custom AJAX based CMS to drive client sites</li>
                         <li>Connected to third-party API's: SSO, payment gateways, shipping quotes</li>
-                        <!-- <li>Installed and customized WordPress and vBulletin for clients</li>-->
+                        <li>Installed and customized WordPress and vBulletin for clients</li>
                         <li>Used jQuery to build flash-like features that were SEO friendly</li>
                     </ul>
                 </div>
@@ -160,17 +161,18 @@
             <section class="list list-dash">
                 <h3>Relevant Skills & Keywords</h3>
                 <ul>
-                    <li>10+ years end-to-end web development</li>
-                    <li>6+ years using Javascript, AJAX, jQuery</li>
+                    <li>10+ yrs end-to-end web development</li>
+                    <li>6+ yrs Javascript, AJAX, JSON, jQuery</li>
                     <li>Require.js, AMD, loose coupling</li>
                     <li>Namespacing, singletons, deferreds</li>
-                    <li>API design, development, integration</li>
+                    <li>RESTful API development, integration</li>
                     <li>UI, UX, application interface design</li>
                     <li>HTML5, CSS3, MVC frameworks</li>
                     <li>OOP PHP 5.3, MySQL schemas</li>
                     <li>LAMP, Apache, .htaccess</li>
                     <li>Git, SVN version control</li>
                     <li>SEO knowledge &amp; practice</li>
+                    <li>15+ yrs Photoshop experience</li>
                 </ul>
             </section>
 
