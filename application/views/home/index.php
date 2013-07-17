@@ -43,7 +43,7 @@
             </div>
             <div class="span7 pull-right">
                 <h1>&nbsp;</h1>
-                <p>Creative professional with 10+ years of web development</p>
+                <p>Creative professional with over a decade of web development</p>
                 <p>experience, focusing on clean code and intuitive user interfaces</p>
             </div>
         </div>
@@ -52,6 +52,22 @@
     <div class="row-fluid">
 
         <div class="span8">
+
+            <div class="job">
+                <p>
+                    <span class="company">Atomic Playpen</span>,
+                    <span class="location">Minneapolis, MN</span>
+                    <span class="dates">April 2013 - July 2013</span>
+                </p>
+                <div>
+                    <p>I was a <span class="position">Frontend Contractor</span>, where I:</p>
+                    <ul>
+                        <li>Developed the fullscreen image gallery website: halconfurniture.com</li>
+                        <li>Consulted the Creative Director on limitations when building mobile websites</li>
+                        <li>Wrote jQuery plugins for custom carousels, dropdowns, and responsive utilities</li>
+                    </ul>
+                </div>
+            </div>
 
             <div class="job">
                 <p>
@@ -64,7 +80,7 @@
                     <ul>
                         <li>Lead two teams of developers during a short contract period</li>
                         <li>Built a data visualization app using modern JS standards and patterns (360i ATL)</li>
-                        <li>Developed the responsive website: http://daytontrucktires.com (Periscope MPLS)</li>
+                        <li>Developed the responsive website: daytontrucktires.com (Periscope MPLS)</li>
                     </ul>
                 </div>
             </div>
@@ -115,8 +131,7 @@
                     <p>I was a volunteer <span class="position">EXCO Facilitator</span> (aka Class Instructor), where I:</p>
                     <ul>
                         <li>Designed the class &ldquo;<em>Introduction to HTML &amp; Web Development</em>&rdquo;</li>
-                        <li>Broke down the basics of the Internet and how the web works</li>
-                        <li>Taught 30 adults HTML and the basics of CSS</li>
+                        <li>Taught 30 adults the basics of the internet, HTML, and CSS</li>
                     </ul>
                 </div>
             </div>
@@ -130,12 +145,14 @@
                 <div>
                     <p>I was a <span class="position">Web Application Developer</span>, where I:</p>
                     <ul>
+                        <li>Developed a custom AJAX based WYSIWYG CMS to drive client sites</li>
                         <li>Built over 80 websites and hundreds of application interfaces</li>
-                        <li>Used Photoshop for design production and slice+dice into HTML/CSS</li>
-                        <li>Developed a custom AJAX based CMS to drive client sites</li>
                         <li>Connected to third-party API's: SSO, payment gateways, shipping quotes</li>
-                        <li>Installed and customized WordPress and vBulletin for clients</li>
+                        <!--
                         <li>Used jQuery to build flash-like features that were SEO friendly</li>
+                        <li>Used Photoshop for design production and slice+dice into HTML/CSS</li>
+                        <li>Installed and customized WordPress and vBulletin for clients</li>
+                        -->
                     </ul>
                 </div>
             </div>
@@ -167,7 +184,7 @@
                     <li>Namespacing, singletons, deferreds</li>
                     <li>RESTful API development, integration</li>
                     <li>UI, UX, application interface design</li>
-                    <li>HTML5, CSS3, MVC frameworks</li>
+                    <li>HTML5, CSS3, LESS, MVC frameworks</li>
                     <li>OOP PHP 5.3, MySQL schemas</li>
                     <li>LAMP, Apache, .htaccess</li>
                     <li>Git, SVN version control</li>
@@ -192,6 +209,7 @@
             <section class="list list-dash">
                 <h3>Agencies Worked With</h3>
                 <ul>
+                    <li>Atomic Minneapolis (2013)</li>
                     <li>360i Atlanta (2013)</li>
                     <li>Periscope Minneapolis (2012)</li>
                     <li>Leo Burnett Chicago (2011)</li>
@@ -237,6 +255,12 @@
             <section class="references">
                 <h3>References</h3>
                 <ul class="no-bullet">
+                    <li>
+                        <strong>Matt Fairchild</strong> <br/>
+                    </li>
+                    <li>
+                        <strong>Matt Fairchild</strong> <br/>
+                    </li>
                     <li>
                         <strong>Matthew Alden</strong> <br/>
                         (651) 755-0437 <br/>
