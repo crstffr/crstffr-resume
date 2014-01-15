@@ -55,6 +55,38 @@
 
             <div class="job">
                 <p>
+                    <span class="company">Olson</span>,
+                    <span class="location">Minneapolis, MN</span>
+                    <span class="dates">Dec 2013</span>
+                </p>
+                <div>
+                    <p>I was a <span class="position">Frontend Contractor</span>, where I:</p>
+                    <ul>
+                        <li>Assisted with the frontend build of Olson's new responsive site</li>
+                        <li>Wrote HTML/CSS/Javascript and PHP for use in the final product</li>
+                        <li>Solved issues with fitting content on mobile devices with small screens</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="job">
+                <p>
+                    <span class="company">Baker Tilly Virchow Krause, LLP</span>,
+                    <span class="location">Minneapolis, MN</span>
+                    <span class="dates">Aug 2013 - Oct 2013</span>
+                </p>
+                <div>
+                    <p>I was a <span class="position">Frontend Contractor</span>, where I:</p>
+                    <ul>
+                        <li>Built the frontend for Mosaic's "Efficient Fertilizer Use Guide"</li>
+                        <li>Used a SMACSS approach for organization of styles and LESS as the CSS pre-processor</li>
+                        <li>Used Grunt in my development process for live reload, concatenation, and minification</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="job">
+                <p>
                     <span class="company">Atomic Playpen</span>,
                     <span class="location">Minneapolis, MN</span>
                     <span class="dates">April 2013 - July 2013</span>
@@ -79,12 +111,13 @@
                     <p>I was a <span class="position">Javascript Contractor</span>, where I:</p>
                     <ul>
                         <li>Lead two teams of developers during a short contract period</li>
-                        <li>Built a data visualization app using modern JS standards and patterns (360i ATL)</li>
+                        <li>Built a data visualization app using Require and a custom MVC framework (360i ATL)</li>
                         <li>Developed the responsive website: daytontrucktires.com (Periscope MPLS)</li>
                     </ul>
                 </div>
             </div>
 
+            <!--
             <div class="job">
                 <p>
                     <span class="company">Firebrand</span>,
@@ -96,10 +129,11 @@
                     <ul>
                         <li>Implemented an Agile development process for the team</li>
                         <li>Developed a deployment process similar in usability to Capistrano</li>
-                        <li>Developed a responsive cross-platform website: http://firebrand.net</li>
+                        <!-- <li>Developed a responsive cross-platform website: http://firebrand.net</li>
                     </ul>
                 </div>
             </div>
+            -->
 
             <div class="job">
                 <p>
@@ -111,13 +145,15 @@
                     <p>I was an <span class="position">Interactive Web Developer</span>, where I:</p>
                     <ul>
                         <li>Consistently lead small teams to develop successful projects</li>
-                        <li>Worked directly with clients to determine project requirements</li>
-                        <li>Ballparked and fully scoped accurate project estimates</li>
                         <li>Wrote scope of work, test plan, and deployment documents</li>
                         <li>Created formal JS standards as a part of the Javascript Committee</li>
                         <li>Built mission-critical app for Norton Stuff Theatre live event (Leo Burnett CHI)</li>
                         <li>Built Nikon Coolpix Zoom Demo using Microsoft Seadragon (MRM Worldwide NY)</li>
+                        <!--
+                        <li>Worked directly with clients to determine project requirements</li>
+                        <li>Ballparked and fully scoped accurate project estimates</li>
                         <li>Built Target Sample Spot, an ADA 508 compliant app (Olson MPLS)</li>
+                        -->
                     </ul>
                 </div>
             </div>
@@ -147,8 +183,8 @@
                     <ul>
                         <li>Developed a custom AJAX based WYSIWYG CMS to drive client sites</li>
                         <li>Built over 80 websites and hundreds of application interfaces</li>
-                        <li>Connected to third-party API's: SSO, payment gateways, shipping quotes</li>
                         <!--
+                        <li>Connected to third-party API's: SSO, payment gateways, shipping quotes</li>
                         <li>Used jQuery to build flash-like features that were SEO friendly</li>
                         <li>Used Photoshop for design production and slice+dice into HTML/CSS</li>
                         <li>Installed and customized WordPress and vBulletin for clients</li>
@@ -209,13 +245,13 @@
             <section class="list list-dash">
                 <h3>Agencies Worked With</h3>
                 <ul>
+                    <li>Olson Minneapolis (2010, 2013)</li>
                     <li>Atomic Minneapolis (2013)</li>
                     <li>360i Atlanta (2013)</li>
                     <li>Periscope Minneapolis (2012)</li>
                     <li>Leo Burnett Chicago (2011)</li>
                     <li>MRM Worldwide New York (2011)</li>
                     <li>Zeus Jones Minneapolis (2010)</li>
-                    <li>Olson Minneapolis (2010)</li>
                 </ul>
             </section>
 
